@@ -1,0 +1,8 @@
+build/
+cmake-build-*/
+build_echo_client
+build_echo_server
+*.o
+*.out
+
+.vscode
